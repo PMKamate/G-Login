@@ -26,6 +26,7 @@ import com.google.android.gms.common.api.Status;
 
 
 //Gmail <code></code>
+//code for mainactivity
 public class MainActivity extends AppCompatActivity implements
         View.OnClickListener,
         GoogleApiClient.OnConnectionFailedListener {
